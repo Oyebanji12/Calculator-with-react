@@ -1,16 +1,9 @@
-
 import Calc from "./component/Calc";
-
-
-
 
 function App() {
   return (
     <div className="App">
-      
       <Calc />
-      
-
    </div>
 
     
